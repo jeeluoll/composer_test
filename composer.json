@@ -1,0 +1,17 @@
+{
+    "name": "jeeluoll/composer_test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jeeluoll\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luoshiwei",
+            "email": "920566349@qq.com"
+        }
+    ],
+    "require": {}
+}
