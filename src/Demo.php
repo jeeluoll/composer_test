@@ -8,4 +8,9 @@ class Demo
     {
         return "Hello world";
     }
+
+    public static function say()
+    {
+        return "say";
+    }
 }
