@@ -9,8 +9,8 @@ class Demo
         return "Hello world";
     }
 
-    public static function say()
+    public static function say2()
     {
-        return "say";
+        return "say2";
     }
 }
