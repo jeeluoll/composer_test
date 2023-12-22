@@ -11,6 +11,6 @@ class Demo
 
     public static function say2()
     {
-        return "say2";
+        return "say222";
     }
 }
